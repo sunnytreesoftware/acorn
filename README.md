@@ -30,3 +30,5 @@ Publish Assets
 php artisan vendor:publish --provider="Sunnytree\Acorn\AcornServiceProvider"
 `
 
+Go to your-website.com/acorn
+
