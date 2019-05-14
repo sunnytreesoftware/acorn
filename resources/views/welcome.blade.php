@@ -82,9 +82,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="assets/images/acorn-icon.svg" alt="Acorn Logo"> <br>
                     Acorn<br>
-                    <span style="font-size:22px;">Photo Profile User Management System for Laravel</span>
+                    <img src="assets/images/acorn-icon.svg" alt="Acorn Logo">
+                    <p>Photo Profile User Management System for Laravel</p>
                 </div>
 
                 <div class="links">
