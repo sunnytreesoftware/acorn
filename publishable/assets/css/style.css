@@ -5,6 +5,7 @@ html, body {
     font-weight: 200;
     height: 100vh;
     margin: 0;
+    background-image: url("../images/treebanch.jpg");
 }
 
 .full-height {
@@ -15,6 +16,7 @@ html, body {
     align-items: center;
     display: flex;
     justify-content: center;
+
 }
 
 .position-ref {
@@ -29,6 +31,9 @@ html, body {
 
 .content {
     text-align: center;
+    background-image: radial-gradient(white, white, rgba(255,255,255, 0.8));
+    padding:60px;
+    border-radius:32px;
 }
 
 .title {
