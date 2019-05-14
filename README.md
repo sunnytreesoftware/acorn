@@ -2,9 +2,9 @@
 Photo Profile Management System for Laravel  
 
 ## Installation  
-Install Laravel
+Install Laravel  
 `
-laravel new acornado
+laravel new acorn
 `  
 
 Laravel Auth  
