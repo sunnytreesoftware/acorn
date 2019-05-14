@@ -5,13 +5,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Acorn by Sunny Tree Software</title>
-        <link rel="stylesheet" href="/assets/welcome.css">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
         <!-- Styles -->
-        <style>
+        <link rel="stylesheet" href="/assets/css/style.css">
+       {{-- <style>
             html, body {
                 background-color: #fff;
                 color: #636b6f;
@@ -62,7 +62,7 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-        </style>
+        </style>--}}
     </head>
     <body>
         <div class="flex-center position-ref full-height">
