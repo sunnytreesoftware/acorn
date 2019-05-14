@@ -5,7 +5,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></p>
 
 <h2 align="center">Photo Profile Management System for Laravel </h2>
-
+<br>
 
 ## Installation  
 Install Laravel  
