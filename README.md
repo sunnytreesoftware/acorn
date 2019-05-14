@@ -16,3 +16,9 @@ Migrations
 `
 php artisan migrate  
 `  
+
+Install Acorn  
+`
+composer require sunnytreesoftware/acorn
+`  
+
