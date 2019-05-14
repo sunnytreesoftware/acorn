@@ -13,7 +13,13 @@
     "autoload": {
       "psr-4": {
         "Sunnytree\\Acorn\\": "src/"
-
       }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sunnytree\\Acorn\\AcornServiceProvider"
+            ]
+        }
     }
 }
