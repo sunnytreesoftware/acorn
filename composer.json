@@ -1,7 +1,7 @@
 {
     "name": "sunnytreesoftware/acorn",
     "description": "Photo Profile Management System for Laravel",
-    "type": "laravel project",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
