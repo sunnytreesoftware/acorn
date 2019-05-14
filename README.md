@@ -1,5 +1,5 @@
 # acorn  
-[![Build Status](https://travis-ci.com/sunnytreesoftware/acorn.svg?branch=master)](https://travis-ci.com/sunnytreesoftware/acorn)  [![Total Downloads](https://poser.pugx.org/sunnytreesoftware/acorn/downloads)](https://packagist.org/packages/sunnytreesoftware/acorn) [![Latest Version on Packagist](https://img.shields.io/packagist/v/sunnytreesoftware/acorn.svg?style=flat-square)](https://packagist.org/packages/sunnytreesoftware/acorn)
+[![Build Status](https://travis-ci.com/sunnytreesoftware/acorn.svg?branch=master)](https://travis-ci.com/sunnytreesoftware/acorn)  [![Total Downloads](https://poser.pugx.org/sunnytreesoftware/acorn/downloads)](https://packagist.org/packages/sunnytreesoftware/acorn) 
 
 Photo Profile Management System for Laravel  
 
