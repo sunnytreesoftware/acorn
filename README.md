@@ -1,4 +1,4 @@
-<p><img style="text-align:center;" src="./publishable/assets/images/acorn-icon.svg" width="100"></p>
+<p align="center"><img src="./publishable/assets/images/acorn-icon.svg" width="100"></p>
   
 # acorn  
 [![Build Status](https://travis-ci.com/sunnytreesoftware/acorn.svg?branch=master)](https://travis-ci.com/sunnytreesoftware/acorn)  [![Total Downloads](https://poser.pugx.org/sunnytreesoftware/acorn/d/total.svg)](https://packagist.org/packages/sunnytreesoftware/acorn) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
