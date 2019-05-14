@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Acorn by Sunny Tree Software</title>
+        <link rel="stylesheet" href="/assets/welcome.css">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,16 +82,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-{{--                    <img src="acorn-icon.svg" alt="Acorn Logo"> <br>--}}
-                    Acorn by Sunny Tree Software
-
-
+                    <img src="assets/images/acorn-icon.svg" alt="Acorn Logo"> <br>
+                    Acorn<br>
+                    <span style="font-size:22px;">Photo Profile User Management System for Laravel</span>
                 </div>
 
                 <div class="links">
-                    <a href="https://sunnytree.org">Sunny Tree Software</a>
-                    <a href="https://github.com/sunnytreesoftware/acorn">Acorn on Github</a>
+                    <a href="https://sunnytree.org">Sunny Tree</a>
+                    <a href="https://github.com/sunnytreesoftware/acorn">Github</a>
                     <a href="https://packagist.org/packages/sunnytreesoftware/acorn">Packagist</a>
+                    <a href="https://mikestratton.net">Author</a>
 
                 </div>
             </div>
