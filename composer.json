@@ -9,5 +9,11 @@
             "email": "mike@mikestratton.net"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Sunnytree\\Acorn\\": "src/"
+
+      }
+    }
 }
