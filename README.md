@@ -23,3 +23,8 @@ Install Acorn
 composer require sunnytreesoftware/acorn
 `  
 
+Publish Assets  
+`
+php artisan vendor:publish --provider="Sunnytree\Acorn\AcornServiceProvider"
+`
+
