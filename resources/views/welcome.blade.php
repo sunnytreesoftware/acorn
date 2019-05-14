@@ -90,6 +90,7 @@
                 <div class="links">
                     <a href="https://sunnytree.org">Sunny Tree Software</a>
                     <a href="https://github.com/sunnytreesoftware/acorn">Acorn on Github</a>
+                    <a href="https://packagist.org/packages/sunnytreesoftware/acorn">Packagist</a>
 
                 </div>
             </div>
